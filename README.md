@@ -6,7 +6,7 @@ I'm an Associate Research Scientist at Columbia University working at the inters
 
 ## Projects
 
-### [EEGproj](https://github.com/IVeuromancer/EEGproj) — BCI Motor Imagery Pipeline
+### [EEGNet](https://github.com/IVeuromancer/EEGNet) — BCI Motor Imagery Pipeline
 End-to-end pipeline for decoding left vs. right arm motor imagery from EEG using an OpenBCI Cyton headset. Trains an EEGNet CNN classifier and uses live predictions to control a pygame game in real time.
 
 `Python` `PyTorch` `BrainFlow` `MNE` `MLflow`
