@@ -16,6 +16,11 @@ Deep learning pipeline for automated sleep stage scoring from EEG recordings.
 
 `Python` `PyTorch`
 
+### [microCircuit](https://github.com/IVeuromancer/microCircuit) — Thalamocortical Microcircuit Simulation
+Biophysical model of a thalamocortical relay (TC) and local interneuron (IN) microcircuit, simulated in NEURON via BMTK. Features distance-dependent connectivity, custom ion channel mechanisms, and Poisson spike-train drive.
+
+`Python` `NEURON` `BMTK` `SONATA`
+
 ---
 
 ## Research
