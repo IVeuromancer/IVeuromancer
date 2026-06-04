@@ -23,10 +23,10 @@ Deep learning pipeline for automated sleep stage scoring from EEG recordings.
 Associate Research Scientist · Columbia University · [Google Scholar](https://scholar.google.com/citations?hl=en&user=Ey80TYAAAAAJ)
 
 Selected publications:
-- **Thalamic control of sensory processing and spindles in a biophysical somatosensory thalamoreticular circuit model** — *Cell Reports*, 2023
-- **Control of non-REM sleep by ventrolateral medulla glutamatergic neurons projecting to the preoptic area** — *Nature Communications*, 2022
-- **Functional architecture of intracellular oscillations in hippocampal dendrites** — *Nature Communications*, 2024
+- **Thalamic control of sensory processing and spindles in a biophysical somatosensory thalamoreticular circuit model of wakefulness and sleep** — *Cell Reports*, 2023
 - **Experimentally-constrained biophysical models of tonic and burst firing modes in thalamocortical neurons** — *PLoS Computational Biology*, 2019
+- **Morphology, physiology and synaptic connectivity of local interneurons in the mouse somatosensory thalamus** — *Journal of Physiology*, 2021
+- **Local thalamic interneurons drive spindle termination and enable sleep-dependent learning**
 
 h-index: 7 · 209 citations
 
