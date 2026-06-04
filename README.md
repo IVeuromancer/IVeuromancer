@@ -26,7 +26,7 @@ Selected publications:
 - **Thalamic control of sensory processing and spindles in a biophysical somatosensory thalamoreticular circuit model of wakefulness and sleep** — *Cell Reports*, 2023
 - **Experimentally-constrained biophysical models of tonic and burst firing modes in thalamocortical neurons** — *PLoS Computational Biology*, 2019
 - **Morphology, physiology and synaptic connectivity of local interneurons in the mouse somatosensory thalamus** — *Journal of Physiology*, 2021
-- **Local thalamic interneurons drive spindle termination and enable sleep-dependent learning**
+- **Local thalamic interneurons drive spindle termination and enable sleep-dependent learning** — *bioRxiv*, 2025
 
 h-index: 7 · 209 citations
 
