@@ -21,6 +21,11 @@ Biophysical model of a thalamocortical relay (TC) and local interneuron (IN) mic
 
 `Python` `NEURON` `Blue Brain Project` `SONATA`
 
+### [AllOfUs](https://github.com/IVeuromancer/AllOfUs) — Clinical AI on the NIH All of Us Dataset
+Research projects built on the All of Us Controlled Tier Dataset (800,000+ participants, individual-level EHR, wearables, genomics, and surveys — access-controlled and pseudonymized). Current work includes an unsupervised ML analysis of opioid-use survey response patterns and a multimodal transformer classifier for opioid use disorder predisposition, combining BioBERT (LoRA fine-tuned) with wearable signal encodings.
+
+`Python` `PyTorch` `Transformers` `PEFT/LoRA` `BigQuery` `HDBSCAN` `UMAP`
+
 ---
 
 ## Research
